@@ -1,2 +1,2 @@
 # ML2020SPRING
-machine learning implement
+Machine learning implement
